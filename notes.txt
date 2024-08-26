@@ -1,0 +1,12 @@
+1) BEFORE STARTING TO WORK IN THIS PROJECT , YOU MAKE SURE YOU ARE IN THE WORKING DIRECTORY IF NOT CHANGE TO THAT WORKING DIRECTORY
+
+2) C:\Users\SriHarish\Documents\VS~CODE_folders\Health_Care\Medical Diagnostics App with GPT-4 Vision -> working directory 
+
+3) ACTIVATE WHEN THE venv WHEN YOU START TO WORK  ->  venv\Scripts\activate 
+
+4) DEACTIVATE THE venv WHEN YOU COMPLETE THE WORK -> deactivate
+
+
+
+
+
